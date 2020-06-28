@@ -6,60 +6,6 @@
   "repo": "https://github.com/Heart-Ace/quanx/",
   "apps": [
     {
-      "id": "jd_plantBean",
-      "name": "京东种豆",
-      "keys": [
-        "CookieJD",
-        "jd_plant_bean_name",
-        "jd_plantBean1",
-        "jd_plantBean2",
-        "jd_plantBean3"
-      ],
-      "settings": [
-        {
-          "id": "CookieJD",
-          "name": "CookieJD",
-          "val": "",
-          "type": "text",
-          "desc": "使用NobyDa的京东ck。"
-        },
-        {
-          "id": "jd_plant_bean_name",
-          "name": "京东账号昵称",
-          "val": "",
-          "type": "text",
-          "desc": "这里可以填你自己京东账号昵称,用于区分账号"
-        },
-        {
-          "id": "jd_plantBean1",
-          "name": "互助码1",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
-          "id": "jd_plantBean2",
-          "name": "互助码2",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        },
-        {
-          "id": "jd_plantBean3",
-          "name": "互助码3",
-          "val": "",
-          "type": "text",
-          "desc": "种豆得豆互助码.这是别人的助力码,你帮别人助力."
-        }
-      ],
-      "author": "@lxk0301",
-      "repo": "https://raw.githubusercontent.com/nzw9314/QuantumultX/master/README.md",
-      "icons": [
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png",
-        "https://raw.githubusercontent.com/znz1992/Gallery/master/jdzd.png"
-      ]
-    },
-    {
       "id": "10000",
       "name": "10000",
       "keys": [],
@@ -67,6 +13,6 @@
       "author": "@wangfei021325, @chavyleung",
       "repo": "https://github.com/chavyleung/scripts/blob/master/10000/10000.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/10000.png", "https://raw.githubusercontent.com/Orz-3/task/master/10000.png"]
-    },
+    }
   ]
 }
